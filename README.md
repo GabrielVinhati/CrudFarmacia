@@ -3,7 +3,7 @@ Este projeto consiste em um backend Java Spring que permite o gerenciamento de m
 
 Como executar o projeto
 Pré-requisitos
-Java JDK 11 ou superior
+Java JDK 17 ou superior
 Maven (ou use a ferramenta integrada à sua IDE)
 Postman ou outro software para testes de APIs REST
 
